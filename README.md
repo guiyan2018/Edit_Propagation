@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------
 # Edit Propagation Using Deep Neural Network
-### README (05/10/2018)
+##### README (05/10/2018)
 -------------------------------------------------------------------------
 
 This code is a simplified implementation of the edit propagation method described in the following paper: 
@@ -16,7 +16,7 @@ Yan Gui, Guang Zeng: "Joint Learning of Visual and Spatial Features for Edit Pro
 ### How to use: 
 1. Clone this repository to your local.
 2. Run "cd Edita_Propagation_connected" or "cd Edit_Propagation_convolutional"
-3. Run "python DP-connected.py" or ""python DP-convolutional.py"
+3. Run "python DP-connected.py" or "python DP-convolutional.py"
 
 If you use GPU for DNN learning, please install the GPU version of TensorFlow, such as "pip install tensorflow-gpu".
 
