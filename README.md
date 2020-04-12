@@ -29,4 +29,4 @@ Personal Contact Information
 ====================================================
 
 Email:
-	(zengzag@hotmail.com)		(Guang Zeng)
+	(guiyan@csust.edu.cn)		(Yan Gui)
