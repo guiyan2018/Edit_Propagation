@@ -4,7 +4,7 @@
 -------------------------------------------------------------------------
 
 This code is a simplified implementation of the edit propagation method described in the following paper: 
-Yan Gui, Guang Zeng: "Joint Learning of Visual and Spatial Features for Edit Propagation from a Single Image", submitted, May 2018.
+Yan Gui, Guang Zeng: Joint Learning of Visual and Spatial Features for Edit Propagation from a Single Image, The visual computer, 2020, 36(3): 469-482.
 
 ### The code is written in Python3.5, and the following packages are used:
 1. Tensorflow>=1.5.0. An open source machine learning framework. https://www.tensorflow.org
